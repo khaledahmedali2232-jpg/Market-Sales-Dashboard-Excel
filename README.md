@@ -32,8 +32,7 @@ This project presents an interactive sales dashboard built using Microsoft Excel
 * Total Orders: 28,471
 * Average Quantity: 8
 
-
-*   ## Key Insights
+## Key Insights
 
 * Women accounted for 69% of total orders.
 * Adults represented 50% of customers.
