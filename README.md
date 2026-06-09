@@ -34,5 +34,6 @@ This project presents an interactive sales dashboard built using Microsoft Excel
 
 ## Dashboard Preview
 
-(Add dashboard image here after uploading it)
+<img width="1561" height="664" alt="Screenshot 2026-06-09 133006" src="https://github.com/user-attachments/assets/a72650b0-d63f-47bf-a1b0-1e240516b5c2" />
+
 
